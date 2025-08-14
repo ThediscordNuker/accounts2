@@ -1,4 +1,8 @@
 [
     "TestProduct1",
-    "TestProduct2"
+    "TestProduct2",
+    "Test",
+    {
+        "name": "Test"
+    }
 ]
